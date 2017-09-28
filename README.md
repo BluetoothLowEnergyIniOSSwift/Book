@@ -48,6 +48,6 @@ Other Books in This Series
 If you are interested in programming other Bluetooth Low Energy Devices, please check out the other books in this series:
 
 
-![ScreenShot](Other Books/Bluetooth Low Energy in Android Java.png)
+![Bluetooth Low Energy in Android Java](Other%20Books/Bluetooth%20Low%20Energy%20in%20Android%20Java.png)
 ![ScreenShot](Other Books/Bluetooth Low Energy in Arduino C++.png)
 ![ScreenShot](Other Books/Bluetooth Low Energy in C++ for nRFx.png)
