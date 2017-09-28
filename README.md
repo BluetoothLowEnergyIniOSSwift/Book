@@ -13,8 +13,8 @@ If you find these examples helpful and you haven't purchased the book, please co
 ISBN: 978-1-7751280-0-7
 
 
-Organization
-============
+## Organization
+
 Each chapter of this book teaches a new concept in Bluetotoh Low Energy Programming, from turning on the radio to usable example projects.
 
 The code is available in the following repositories:
@@ -43,8 +43,8 @@ The code is available in the following repositories:
 
 
 
-Other Books in This Series
-===========================
+## Other Books in This Series
+
 If you are interested in programming other Bluetooth Low Energy Devices, please check out the other books in this series:
 
 
