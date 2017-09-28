@@ -8,7 +8,7 @@ If you find these examples helpful and you haven't purchased the book, please co
 
 - Tony Gaitatzis (<backupbrain@gmail.com>)
 
-![BookCover](Bluetooth Low Energy in iOS Swift Cover.png)
+![BookCover](Bluetooth%20Low%20Energy%20in%20iOS%20Swift%20Cover.png)
 
 ISBN: 978-1-7751280-0-7
 
@@ -49,5 +49,5 @@ If you are interested in programming other Bluetooth Low Energy Devices, please 
 
 
 ![Bluetooth Low Energy in Android Java](Other%20Books/Bluetooth%20Low%20Energy%20in%20Android%20Java.png)
-![ScreenShot](Other Books/Bluetooth Low Energy in Arduino C++.png)
-![ScreenShot](Other Books/Bluetooth Low Energy in C++ for nRFx.png)
+![ScreenShot](Other Books/Other%20Books/Bluetooth%20Low%20Energy%20in%20Arduino%20C++.png)
+![ScreenShot](Other Books/Other%20Books/Bluetooth%20Low%20Energy%20in%20C++%20for%20nRFx.png)
