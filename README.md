@@ -1,5 +1,5 @@
-Bluetooth Low Energy with Android and Arduino
-#############################################
+# Bluetooth Low Energy with Android and Arduino
+
 
 
 These are **complete downloadable code examples** from my book, _Bluetooth Low Energy with iOS Swift_.  The book teaches how to make Bluetooth Low Energy devices using iOS/Swift.  
